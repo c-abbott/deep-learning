@@ -3,7 +3,7 @@
 Instructor: [Andrew Ng](https://www.andrewng.org/)
 
 ## Introduction
-This repo contains the programming assignments I completed as part of the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+This repo contains the programming assignments I completed as part of the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). Note that I have uploaded these notebooks partly as a reference for myself and as a record of my work. These notebooks will *not* run on your local machine without the utils files and data provided by [Coursera](https://www.coursera.org/).
 
 ## Programming Assignments
 * Course 1: Neural Networks and Deep Learning
