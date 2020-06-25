@@ -24,3 +24,6 @@ This repo contains the programming assignments I completed as part of the [Deep 
 * Course 4: Convolutional Neural Networks
     - Week 1 - PA 1 - [Convolutional Model: step by step (numpy_conv_net.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/conv_nets)
     - Week 1 - PA 2 - [Convolutional Model: application (tf_conv_net.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/conv_nets)
+    - Week 2 - PA3 - [Keras Tutorial (keras_tut.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/conv_nets)
+    - Week 2 - PA4 - [Residual Network (res_net.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/conv_nets)
+    - Week3 - PA5 - [Car detection with YOLO (yolo_obj_detection.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/conv_nets)
