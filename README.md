@@ -2,6 +2,7 @@
 ### Master Deep Learning, and Break into AI
 Instructor: [Andrew Ng](https://www.andrewng.org/)
 Community: [deeplearning.ai](https://www.deeplearning.ai/)
+
 <img width="1124" alt="course_modules" src="https://user-images.githubusercontent.com/56611062/86245783-e8516a80-bba1-11ea-84ce-cc877bc9f3d7.png">
 
 ## Introduction
