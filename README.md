@@ -31,3 +31,5 @@ This repo contains the programming assignments I completed as part of the [Deep 
 
 * Course 5: Sequence Models
     - Week 1 - PA1 - [RNN and LSTM Model: step by step (lstm_numpy.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/5.%20Sequence%20Models)
+    - Week 1 - PA2 - [Dinosaur Island - Character-Level Language Modeling (char_lang_model.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/5.%20Sequence%20Models)
+    - Week 1 - PA3 - [Jazz improvisation with LSTM (lstm_music_gen.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/5.%20Sequence%20Models)
