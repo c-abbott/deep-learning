@@ -28,3 +28,6 @@ This repo contains the programming assignments I completed as part of the [Deep 
     - Week 2 - PA3 - [Keras Tutorial (keras_tut.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/4.%20Convolutional%20Neural%20Networks)
     - Week 2 - PA4 - [Residual Network (res_net.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/4.%20Convolutional%20Neural%20Networks)
     - Week 3 - PA5 - [Car detection with YOLO (yolo_obj_detection.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/4.%20Convolutional%20Neural%20Networks)
+
+* Course 5: Sequence Models
+    - Week 1 - PA1 - [RNN and LSTM Model: step by step (lstm_numpy.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/5.%20Sequence%20Models)
