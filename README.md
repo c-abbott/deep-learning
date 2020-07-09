@@ -35,3 +35,5 @@ This repo contains the programming assignments I completed as part of the [Deep 
     - Week 1 - PA3 - [Jazz improvisation with LSTM (lstm_music_gen.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/5.%20Sequence%20Models)
     - Week 2 - PA4 - [Operations on word vectors - Debiasing (embeddings_intro.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/5.%20Sequence%20Models)
     - Week 2 - PA5 - [Emojify (emojify_nlp.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/5.%20Sequence%20Models)
+    - Week 3 - PA6 - [Neural Machine Translation with Attention (attention_model.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/5.%20Sequence%20Models)
+    - Week 3 - PA7 - [Trigger Word Detection (trigger_word_detection.ipynb)](https://github.com/c-abbott/deep-learning/tree/master/5.%20Sequence%20Models)
